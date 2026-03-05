@@ -1,4 +1,4 @@
-### Hi there 👋 This is Yifeng Liu
+I'm Yifeng Liu, an robotics engineer. Im recently graduated from Massachusetts Institute of Technology master advised by Manish Rahavan, with double major in Computer Science and City Planning. I received my B.Arch. from Tsinghua University.
 
 <!--
 
